@@ -1,4 +1,18 @@
 # 代理规则，所有自定义的代理域名和IP都放这个文件里，注意#表示注释这一行
+#迪士尼
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,warnermediacdn.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,disney.com
+
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,googel
 # 域名后缀匹配
@@ -74,17 +88,7 @@ DOMAIN-SUFFIX,ptskit.org
 DOMAIN-SUFFIX,halomt.com
 DOMAIN-SUFFIX,manfuz.co
 
-DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,discomax.com
-DOMAIN-SUFFIX,warnermediacdn.com
-DOMAIN-SUFFIX,hbonow.com
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,dssott.com
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,disney.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,starott.com
+
 
