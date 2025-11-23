@@ -1,5 +1,6 @@
 # 代理规则，所有自定义的代理域名和IP都放这个文件里，注意#表示注释这一行
 #迪士尼
+DOMAIN-SUFFIX,poperblocker.com
 DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbo.com
@@ -90,5 +91,6 @@ DOMAIN-SUFFIX,manfuz.co
 
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,starott.com
+
 
 
